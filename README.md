@@ -1,6 +1,6 @@
 # Simple web application
 
-The web app has 3 components
+The web app has 3 components - AngularJS and Spring
 
 * Static files: All JS, CSS, Image files. The app.js file contains the URL to the REST services 
 * REST Service : WAR file that can be deployed to any Java app server
