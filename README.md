@@ -11,6 +11,6 @@ The web app has 3 components
 
 
 * To run on localhost use
-```mvn clean package jetty:run
-...
+```bash
+mvn clean package jetty:run
 ```
